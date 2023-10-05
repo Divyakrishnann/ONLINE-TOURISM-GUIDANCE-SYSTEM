@@ -1,7 +1,7 @@
 # ONLINE-TOURISM-GUIDANCE-SYSTEM
 Online tourism guidance system is an application that provides proper guide to the tourist for having a proper budget friendly travel plan. Features like Navigation maps and choosing the language in which they want to see the application will be used which will make the application more convenient to use.
 <p><b>SQL Commands</b></p>
-![sql](https://github.com/Divyakrishnann/ONLINE-TOURISM-GUIDANCE-SYSTEM/assets/102403653/23308f61-f8c5-4e71-815a-b49148c43500)
+<img width="960" alt="Home" src="https://github.com/Divyakrishnann/ONLINE-TOURISM-GUIDANCE-SYSTEM/assets/102403653/23308f61-f8c5-4e71-815a-b49148c43500">
 
 <p><b>Home page</b></p><img width="960" alt="Home" src="https://github.com/Divyakrishnann/ONLINE-TOURISM-GUIDANCE-SYSTEM/assets/102403653/556bacbf-3fcb-48b0-a261-8dc3616e64ff">
 <p><b>Login page</b></p><img width="497" alt="Login" src="https://github.com/Divyakrishnann/ONLINE-TOURISM-GUIDANCE-SYSTEM/assets/102403653/816530e4-7031-4c7f-8207-a89f438a8fa3">
